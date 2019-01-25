@@ -17,3 +17,6 @@ Markdown - Markdown is simple markup language which mostly uses readme files.
 - [Git tutorials](http://www.vogella.com/tutorials/Git/article.html)
 - [Markdown guide](https://www.markdownguide.org/)
 - [Clone Repository](https://help.github.com/articles/cloning-a-repository/)
+## Contributors
+I am Lavanya Reddy Uppula, purusing my masters at Northwest Missouri State University in Applied Computer Science.
+![hello kitty image](https://www.petmd.com/sites/default/files/petmd-kitten-facts.jpg)
