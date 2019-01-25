@@ -1,4 +1,6 @@
 # aboutme
+Myself Lavanya Reddy Uppula,I was born and bought up in Hyderabad.I have done my under graduation in Electronics and Communication Engineering from TKR college and Engineering and Technology. I enjoy listening music and watching movies. I like watching cricket.
+
 
 ## My Repository Links
 
@@ -29,5 +31,8 @@ By using this Repo I practiced how to pull and push the content into Github.
 
 ## Contributors
 
-I am Lavanya Reddy Uppula, purusing my master's at Northwest Missouri State University in Applied Computer Science.
+Lavanya Reddy Uppula
+
+look at them.. how cute !
+
 ![hello kitty image](https://www.petmd.com/sites/default/files/petmd-kitten-facts.jpg)
