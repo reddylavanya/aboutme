@@ -31,7 +31,7 @@ By using this Repo I practiced how to pull and push the content into Github.
 
 ## Contributors
 
-Lavanya Reddy Uppula
+Lavanya Reddy Uppula,Applied Computer Science.
 
 look at them.. how cute !
 
