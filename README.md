@@ -7,7 +7,7 @@
 
 ## About
 
-By using this Repo i practiced how to pull nd push the content into Github.
+By using this Repo I practiced how to pull and push the content into Github.
 
 ## Recomended tools
 
@@ -28,5 +28,6 @@ By using this Repo i practiced how to pull nd push the content into Github.
 - [Clone Repository](https://help.github.com/articles/cloning-a-repository/)
 
 ## Contributors
+
 I am Lavanya Reddy Uppula, purusing my masters at Northwest Missouri State University in Applied Computer Science.
 ![hello kitty image](https://www.petmd.com/sites/default/files/petmd-kitten-facts.jpg)
