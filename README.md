@@ -29,5 +29,5 @@ By using this Repo I practiced how to pull and push the content into Github.
 
 ## Contributors
 
-I am Lavanya Reddy Uppula, purusing my masters at Northwest Missouri State University in Applied Computer Science.
+I am Lavanya Reddy Uppula, purusing my master's at Northwest Missouri State University in Applied Computer Science.
 ![hello kitty image](https://www.petmd.com/sites/default/files/petmd-kitten-facts.jpg)
