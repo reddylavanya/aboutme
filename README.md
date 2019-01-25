@@ -9,7 +9,7 @@
 
 By using this Repo I practiced how to pull and push the content into Github.
 
-## Recomended tools
+## Recommended tools
 
 1. [Github](https://github.com/reddylavanya/aboutme) - Github is a cloud where we can create repository and publish the content.
 1. [Visual Studio](https://code.visualstudio.com/) - visual studio is used to write the code in local machine and it can be pushed to github.
